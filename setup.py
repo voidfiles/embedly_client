@@ -15,7 +15,7 @@ setup(name         = 'Embedly',
       author       = 'Embed.ly, Inc.',
       author_email = 'developers@embed.ly',
       url          = 'http://api.embed.ly',
-      version      = '0.1',
+      version      = '0.2',
       py_modules   = ['embedly'],
       classifiers  = [
         'Development Status :: 1 - Beta',
